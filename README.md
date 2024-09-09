@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello!
+## I'm Austin, I'm working on my undergrad at UNT.
 
 <!--
 **mitch204/mitch204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
